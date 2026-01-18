@@ -21,6 +21,7 @@ How accurately can housing prices be predicted using structured data, and which 
 - Scikit-learn
 - Regression and machine learning models
 - Model evaluation (RMSE, R²)
+- Multicollinearity Check (Variance Inflation Factors Analysis)
 
 ## Key Insights
 - A small subset of neighborhood and environmental features explained a large portion of price variability.
