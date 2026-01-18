@@ -53,6 +53,6 @@ Stay tuned for additional projects exploring healthcare analytics, predictive mo
 
 ---
 
-**Connect with me:** [LinkedIn] www.linkedin.com/in/anuradhasjoshi | [Email] mailto:anujoshi3390@gmail.com
+**Connect with me:** [LinkedIn] www.linkedin.com/in/anuradhasjoshi | [Email] anujoshi3390@gmail.com
 -
 
