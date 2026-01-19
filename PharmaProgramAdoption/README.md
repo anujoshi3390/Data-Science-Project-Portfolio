@@ -20,7 +20,7 @@ What factors influence pharmaceutical program adoption, and how can analytics su
 - Python
 - Pandas
 - Scikit-learn
-- Predictive modeling (Random Forest, XGboost, SHAP, PDP)
+- Predictive modeling (Random Forest, XGboost, SHAP, PDP, log correlation)
 - Adoption and engagement metrics
 
 ## Key Insights
