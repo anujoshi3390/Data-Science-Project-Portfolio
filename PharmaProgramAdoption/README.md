@@ -2,7 +2,7 @@
 # Pharmaceutical Program Adoption Analysis
 
 ## Overview
-This project analyzes adoption patterns for a pharmaceutical program to understand what drives participation and sustained engagement. Pharmaceutical programs often struggle with underutilization, even when clinical value is high.
+This project analyzes adoption patterns for a pharmaceutical program to understand what drives participation, sustained engagement and inform marketing target stratiges. Pharmaceutical programs often struggle with underutilization, even when clinical value is high.
 
 The analysis frames adoption as a systems problem involving awareness, access, and behavior—rather than a purely clinical outcome.
 
