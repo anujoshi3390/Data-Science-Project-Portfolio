@@ -44,7 +44,7 @@ Built a convolutional neural network (CNN) for medical image classification to i
 
 ### 6. Pharmaceutical Program Adoption Analysis
 Analyzed program adoption data to optimize marketing strategies and improve uptake metrics for a pharmaceutical drug using advanced analytics techniques.  
-**Tools:** Python, Pandas,Scikit-learn ( Random Forest, XGboost, Linear Regression, Lasos, Decision Tree, SHAP, PDP), Cross-validation, Regression Modeling and Data Visualization.  
+**Tools:** Python, Pandas,Scikit-learn ( Random Forest, XGboost, Linear Regression, Lasos, Decision Tree, SHAP, PDP), Cross-validation, Regression Modeling and Data Visualization. Lag correlation and predicting the top ten features that are influence target markerting. 
 **Folder:** `PharmaProgramAdoption/`
 
 ---
